@@ -1,3 +1,6 @@
+Oops!!! I forgot about Date() object in JavaScript. So this module is quite
+useless now. :)
+
 This is a node.js module, writen in C++, that implements some missing time
 functions, such as getting timeval struct and getting unix time.
 
