@@ -1,5 +1,5 @@
 {
-   "name": "time",
+   "name": "cpptime",
    "version": "1.0.0",
    "main": "time",
    "description": "An example C++ module for node.js that exports several synchronous time functions",
