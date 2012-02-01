@@ -1,0 +1,28 @@
+{
+   "name": "time",
+   "version": "1.0.0",
+   "main": "time",
+   "description": "An example C++ module for node.js that exports several synchronous time functions",
+   "keywords": [
+       "time",
+       "date"
+   ],
+   "author": {
+       "name": "Peteris Krumins",
+       "email": "peteris.krumins@gmail.com",
+       "web": "http://www.catonmat.net",
+       "twitter": "pkrumins"
+   }, 
+   "license": "MIT",
+   "repository": {
+       "type": "git",
+       "url": "git@github.com:pkrumins/node-time.git" 
+   }, 
+   "engines": {
+       "node": ">=0.2.0"
+   },
+   "scripts": {
+       "install": "node-waf configure build"
+   }
+}
+
