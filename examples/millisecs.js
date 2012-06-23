@@ -1,5 +1,5 @@
-var sys = require('sys');
+var util = require('util');
 var getMilliseconds = require('time').getMilliseconds;
 
-sys.log("Milliseconds: " + getMilliseconds());
+util.log("Milliseconds: " + getMilliseconds());
 
