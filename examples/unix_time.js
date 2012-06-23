@@ -1,5 +1,5 @@
-var sys = require('sys');
+var util = require('util');
 var getUnixTime = require('time').getUnixTime;
 
-sys.log("Unix time: " + (getUnixTime()).toString());
+util.log("Unix time: " + (getUnixTime()).toString());
 
