@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/pkrumins/node-time.png)](http://travis-ci.org/pkrumins/node-time)
 Oops!!! I forgot about Date() object in JavaScript. So this module is quite
 useless now. :)
 
